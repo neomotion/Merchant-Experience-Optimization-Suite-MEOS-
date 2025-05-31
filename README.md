@@ -68,6 +68,9 @@ Drive operational efficiency with automated experience analysis
 Make data-driven decisions with actionable insights
 Stay ahead of competitors with continuous experience optimization
 
+![image](https://github.com/user-attachments/assets/b537c1d0-2f36-4027-88be-5699584a2e36)
+
+
 # **Features**
 
 **AI-Powered Interaction Analysis:** Leverages OpenAI's GPT models and LangChain to extract meaningful insights from merchant interactions and feedback.
