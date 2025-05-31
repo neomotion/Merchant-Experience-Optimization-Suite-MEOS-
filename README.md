@@ -1,1 +1,1 @@
-# Merchant-Experience-Optimization-Suite-MEOS-
+# Merchant-Experience-Optimization-Suite-MEOS
