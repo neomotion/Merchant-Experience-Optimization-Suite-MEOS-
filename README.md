@@ -80,8 +80,6 @@ This allows the feedback to be realistic, informed, and grounded in actual busin
 
 # **Technical Stack**
 - Python - Core programming language
-  
-- FastAPI - Backend framework
 
 - Streamlit - Frontend framework
 
